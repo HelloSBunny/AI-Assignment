@@ -10,4 +10,4 @@ def identify_language(text):
 text = "This is a sample text to identify its language."
 
 language = identify_language(text)
-print(f"The language of the text is: {language}")
+print("The language of the text is: {language}")
